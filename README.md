@@ -6,3 +6,4 @@ Lūdzu pildiet sekojošos uzdevumus pēc kārtas:
 - [] Aplūkt rezultātu Git Hub
 - [] Pievienot HTML un JS failus, veikt kommit un aizsūtīt uz GitHub
 
+- []veicu izmaiņas
